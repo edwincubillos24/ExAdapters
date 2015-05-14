@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="nombres_array">
+        <item>Superman</item>
+        <item>Flash</item>
+        <item>Mujer Maravilla</item>
+        <item>Acuaman</item>
+    </string-array>
+</resources>
