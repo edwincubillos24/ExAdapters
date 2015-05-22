@@ -17,7 +17,6 @@ public class MainActivity extends Activity {
 
     private Spinner SNombres;
     final String[] nombres = new String[] {"Superman", "Flash","Mujer Maravilla", "Acuaman" };
-    TextView seleccion;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
